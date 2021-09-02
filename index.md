@@ -3,7 +3,6 @@ layout: about
 permalink: /
 profile:
   align: right
-  image: profile.png
 published: true
 ---
 # 2022 Mayor’s Cup Information
